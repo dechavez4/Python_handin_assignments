@@ -1,0 +1,13 @@
+With data aggregation and data visualization answer the following questions:
+1.	What is the change in pct of divorced danes from 2008 to 2020?
+-	26.98%
+2.	Which of the 5 biggest cities has the highest percentage of 'Never Married'?
+-	Hovedstaden: 34.23%
+-	Syddanmark: 19.97%
+-	Sjælland: 12.96%
+-	Midtjylland: 22.97%
+-	Nordjylland: 9.8%
+3.	Show a bar chart of changes in marrital status in Copenhagen from 2008 till now
+see the first PNG
+4.	Show a bar chart of 'Married' and 'Never Married' for all ages in DK (Hint: 2 bars of different color)
+See the second png
