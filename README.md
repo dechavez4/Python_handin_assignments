@@ -7,16 +7,16 @@
 [assignment 2](https://github.com/dechavez4/Python_handin_assignments/blob/master/week%202/utils.py)
 
 ## week 3 assignments
-[assignment 1] (https://github.com/dechavez4/Python_handin_assignments/tree/master/week_3)
+[week 3](https://github.com/dechavez4/Python_handin_assignments/tree/master/week_3)
 
 ## week 4 assignments
-[assignment 1] (https://github.com/dechavez4/Python_handin_assignments/tree/master/week_4)
+[week 4](https://github.com/dechavez4/Python_handin_assignments/tree/master/week_4)
 
 ## week 5 assignments
-[assignment 1](https://github.com/dechavez4/Python_handin_assignments/blob/master/week_5/answers_for_week_5_as_1)
+[week 5](https://github.com/dechavez4/Python_handin_assignments/blob/master/week_5/answers_for_week_5_as_1)
 
 ## week 6 assignments
-[assignment 1] (https://github.com/dechavez4/Python_handin_assignments/tree/master/week_6)
+[week 6](https://github.com/dechavez4/Python_handin_assignments/tree/master/week_6)
 
 ## week 8 assignment
-[assignment 1](https://github.com/dechavez4/Python_handin_assignments/tree/master/week_8)
+[week 8](https://github.com/dechavez4/Python_handin_assignments/tree/master/week_8)
